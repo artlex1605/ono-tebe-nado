@@ -38,10 +38,6 @@
   list-style: circle;
 }
 
-.header__link--no-active {
-  text-decoration: none;
-}
-
 .header__logo {
   max-width: 140px;
   margin-left: 45px;
